@@ -1,0 +1,36 @@
+
+    body {
+      background-color: rgb(26, 15, 176);
+    }
+    img{
+        width: 500px;
+        height: 450px;
+        border-radius: 4px;
+    } 
+    .name{
+        width: 450px;
+        height: 450px;
+        border-radius: 14px;
+    }
+    h1{
+        font-size:80px; color:black; background-color:#FFB2A6; border:10px solid #FFB2A6;
+        display: inline-block;
+        border-radius: 20px  4px 20px 4px;
+        
+    }
+    .d{
+        font-size:50px;
+         color:#7F8487;
+    
+    }
+    .g{
+        font-size:50px; 
+        color:#E8630A;
+    
+    }
+    .b{
+        font-size:50px; 
+        color:#035397;
+    
+    }
+  
